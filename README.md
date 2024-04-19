@@ -1,6 +1,6 @@
 ## Exercícios práticos de engenharia de dados
-O objetivo deste repositório é desenvolver e aprender habilidades importantes para o dia a dia de um engenheiro de dados, solucionando uma lista de problemas práticos.
-Como:
+O objetivo deste repositório é desenvolver e aprender habilidades importantes para o dia a dia de um engenheiro de dados, solucionando uma lista de problemas práticos como:
+
   - Processamento de dados em Python
   - Manipulação de arquivos CSV, simples, parquet, JSON, etc.
   - Design de tabelas de banco de dados SQL
