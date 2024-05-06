@@ -22,7 +22,7 @@ Repositório: [Exercício 1](https://github.com/matheus-honorato/data-engineerin
 
 
 #### Exercício 2 - Web Scraping + Download + Pandas
-Neste exercício, eu precisei fazer o download de um arquivo da [página](https://www.ncei.noaa.gov/data/local-climatological-data/access/2021/), pra isso precisei:
+Neste exercício, eu precisei baixar um arquivo de dados meteorológicos de um [site](https://www.ncei.noaa.gov/data/local-climatological-data/access/2021/) do governo, pra isso precisei:
   - Realizar um web scraping da página
   - Encontrar o arquivo correspondente a `2024-01-19 10:16` e  ao tamanho `128K`
   - Construir a `url` necessária para o download
